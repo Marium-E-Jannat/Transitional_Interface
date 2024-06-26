@@ -1,2 +1,2 @@
-# Transitional User Interface
-This is the Unity project for the implementation of Transitional UI.
+# Read Me
+This is the Unity project for the implementation.
