@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111284355199",
+    "project_id": "chi2024",
+    "storage_bucket": "chi2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111284355199:android:98688bfff8d19cdad7bf4a",
+        "android_client_info": {
+          "package_name": "com.UBCO_HCI.CHI2024_Transitional_Interface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111284355199-n0n7o43bqes8ojqgalr4tvvuv6dp069f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Y4XTJkYkAZEgiDJgrEQ39tMbMvVdU58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111284355199-n0n7o43bqes8ojqgalr4tvvuv6dp069f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
